@@ -23,6 +23,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Operadores aritimético
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores Aritméticos", "src\1 - Lógica de Programação\4 - Operadores Aritméticos\Operadores Aritméticos\Operadores Aritméticos.csproj", "{7165F7EE-308A-4130-B4B9-7BCD697B76B6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entrada de dados", "5 - Entrada de dados", "{A44AB3E8-447B-4CC9-AC4A-5E1D2B6D22A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "src\1 - Lógica de Programação\5 - Entrada de Dados\EntradaDeDados\EntradaDeDados.csproj", "{D5C4129C-B8EF-4E7A-9734-57C89308B587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,18 @@ Global
 		{7165F7EE-308A-4130-B4B9-7BCD697B76B6}.Release|x64.Build.0 = Release|Any CPU
 		{7165F7EE-308A-4130-B4B9-7BCD697B76B6}.Release|x86.ActiveCfg = Release|Any CPU
 		{7165F7EE-308A-4130-B4B9-7BCD697B76B6}.Release|x86.Build.0 = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|x64.Build.0 = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Debug|x86.Build.0 = Debug|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|x64.ActiveCfg = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|x64.Build.0 = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|x86.ActiveCfg = Release|Any CPU
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +111,8 @@ Global
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE} = {827DC4E5-675D-48D5-A59E-69FB41BA8728}
 		{AA1978B9-82D5-44B0-A033-0A38B4AD081E} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
 		{7165F7EE-308A-4130-B4B9-7BCD697B76B6} = {AA1978B9-82D5-44B0-A033-0A38B4AD081E}
+		{A44AB3E8-447B-4CC9-AC4A-5E1D2B6D22A9} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
+		{D5C4129C-B8EF-4E7A-9734-57C89308B587} = {A44AB3E8-447B-4CC9-AC4A-5E1D2B6D22A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92810C23-399D-4884-A176-3C36522C5A79}
