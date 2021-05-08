@@ -6,19 +6,20 @@ namespace EntradaDeDados
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Faça um programa em console, que receba do usuário o texto: banana maçã uva morango e imprima cada palavra dessas palavras em uma linha separada");
-            Console.WriteLine("Escreva o texto a ser separado");
+            Console.WriteLine("Faça um programa em console, que receba do usuário um texto (na mesma linha) " +
+                "o primeiro nome, idade, o salario e a primeira letra do nome");
+            
 
             string[] vet = Console.ReadLine().Split(' ');
-            string vet1 = vet[0];
-            string vet2 = vet[1];
-            string vet3 = vet[2];
-            string vet4 = vet[3];
+            string nome = vet[0];
+            int idade = int.Parse(vet[1]);
+            double salario = double.Parse(vet[2]);
+            char letra = char.Parse(vet[3]);
 
-            Console.WriteLine(vet1);
-            Console.WriteLine(vet2);
-            Console.WriteLine(vet3);
-            Console.WriteLine(vet4);
+            Console.WriteLine(nome);
+            Console.WriteLine(idade);
+            Console.WriteLine(salario.ToString("F2"));
+            Console.WriteLine(letra);
 
         }
     }
