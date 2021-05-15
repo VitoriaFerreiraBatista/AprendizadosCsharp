@@ -33,6 +33,7 @@ namespace EstrtuturaCondicional
             {
                 Console.WriteLine("O valor digitado é par!");
 
+
             }
             else
             {
