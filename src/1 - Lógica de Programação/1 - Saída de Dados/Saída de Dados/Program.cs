@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace SaidaDeDados
+namespace Saída_de_Dados
 {
     class Program
     {

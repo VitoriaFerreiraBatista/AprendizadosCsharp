@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OperadoresComparativosELogicos
+namespace Operadores_Comparativos_e_Lógicos
 {
     class Program
     {
@@ -13,8 +13,8 @@ namespace OperadoresComparativosELogicos
 
             bool comparador3 = 10 < 5;
             bool comparador4 = comparador1 || comparador2 && comparador3;
+
             Console.WriteLine($"Comparador4: {comparador4}");
-           
         }
     }
 }
