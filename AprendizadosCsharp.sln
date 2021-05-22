@@ -27,21 +27,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Saída de Dados", "1 - 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Operadores comparativos e lógicos", "6 - Operadores comparativos e lógicos", "{E9B42503-DD65-4A99-B8CA-6FF6E9361F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operadores Comparativos e Lógicos", "src\1 - Lógica de Programação\6 - Operadores comparativos e lógicos\Operadores Comparativos e Lógicos\Operadores Comparativos e Lógicos.csproj", "{F6A95DA1-3AD8-43D9-BBE8-CDC8F05FBBA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores Comparativos e Lógicos", "src\1 - Lógica de Programação\6 - Operadores comparativos e lógicos\Operadores Comparativos e Lógicos\Operadores Comparativos e Lógicos.csproj", "{F6A95DA1-3AD8-43D9-BBE8-CDC8F05FBBA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saída de Dados", "src\1 - Lógica de Programação\1 - Saída de Dados\Saída de Dados\Saída de Dados.csproj", "{566CC61B-B7B3-4FBA-B638-5431093649ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Saída de Dados", "src\1 - Lógica de Programação\1 - Saída de Dados\Saída de Dados\Saída de Dados.csproj", "{566CC61B-B7B3-4FBA-B638-5431093649ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstrtuturaCondicional", "src\1 - Lógica de Programação\7 - Estrutura Condicional\EstrtuturaCondicional\EstrtuturaCondicional.csproj", "{465B3F79-15A3-4C7A-B779-DA4062E89EC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstrtuturaCondicional", "src\1 - Lógica de Programação\7 - Estrutura Condicional\EstrtuturaCondicional\EstrtuturaCondicional.csproj", "{465B3F79-15A3-4C7A-B779-DA4062E89EC5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Estrutura Condicional", "7 - Estrutura Condicional", "{71C4AAE8-FE21-4037-B050-E71F5D3C3372}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Funções", "8 - Funções", "{A6C03403-8942-464C-81D5-DF1A5C46192D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcoes", "src\1 - Lógica de Programação\8 - Funções\Funcoes\Funcoes.csproj", "{6AE714E3-232B-460D-9C96-131DCA9E39A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcoes", "src\1 - Lógica de Programação\8 - Funções\Funcoes\Funcoes.csproj", "{6AE714E3-232B-460D-9C96-131DCA9E39A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturadeRepeticao", "src\1 - Lógica de Programação\9 - Estrutura de Repetição\EstruturadeRepeticao\EstruturadeRepeticao.csproj", "{C0020198-6274-4EA9-99A1-C08EBD7D9FD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturadeRepeticao", "src\1 - Lógica de Programação\9 - Estrutura de Repetição\EstruturadeRepeticao\EstruturadeRepeticao.csproj", "{C0020198-6274-4EA9-99A1-C08EBD7D9FD0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 - Estrutura de Repetição", "9 - Estrutura de Repetição", "{286E06AD-8FE3-496B-A56D-36FB6A75E87A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Desafios", "Desafios", "{00A04F2B-22DC-4A26-8197-1D460087A47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio01", "src\1 - Lógica de Programação\Desafios\Desafio01\Desafio01.csproj", "{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +165,18 @@ Global
 		{C0020198-6274-4EA9-99A1-C08EBD7D9FD0}.Release|x64.Build.0 = Release|Any CPU
 		{C0020198-6274-4EA9-99A1-C08EBD7D9FD0}.Release|x86.ActiveCfg = Release|Any CPU
 		{C0020198-6274-4EA9-99A1-C08EBD7D9FD0}.Release|x86.Build.0 = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|x64.Build.0 = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Debug|x86.Build.0 = Debug|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|x64.ActiveCfg = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|x64.Build.0 = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|x86.ActiveCfg = Release|Any CPU
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +201,8 @@ Global
 		{6AE714E3-232B-460D-9C96-131DCA9E39A0} = {A6C03403-8942-464C-81D5-DF1A5C46192D}
 		{C0020198-6274-4EA9-99A1-C08EBD7D9FD0} = {286E06AD-8FE3-496B-A56D-36FB6A75E87A}
 		{286E06AD-8FE3-496B-A56D-36FB6A75E87A} = {5B22E548-E53A-4228-B85F-61786955F3FA}
+		{00A04F2B-22DC-4A26-8197-1D460087A47F} = {5B22E548-E53A-4228-B85F-61786955F3FA}
+		{EEC3B6FF-CB23-4FF2-AB72-7F80B81D7B11} = {00A04F2B-22DC-4A26-8197-1D460087A47F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92810C23-399D-4884-A176-3C36522C5A79}
