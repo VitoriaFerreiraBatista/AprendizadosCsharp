@@ -61,9 +61,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio07", "src\1 - Lógic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio08", "src\1 - Lógica de Programação\Desafios\Desafio08\Desafio08.csproj", "{8890DC53-3E8B-4DAD-97E8-E4185F26B7C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio09", "src\1 - Lógica de Programação\Desafios\Desafio09\Desafio09.csproj", "{F5196457-9508-4E95-B975-B642C6476021}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio09", "src\1 - Lógica de Programação\Desafios\Desafio09\Desafio09.csproj", "{F5196457-9508-4E95-B975-B642C6476021}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio10", "src\1 - Lógica de Programação\Desafios\Desafio10\Desafio10.csproj", "{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio10", "src\1 - Lógica de Programação\Desafios\Desafio10\Desafio10.csproj", "{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - POO", "2 - POO", "{F2273192-6009-4E38-ABB2-577FBA5DADAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classes, Atributos e Métodos", "1 - Classes, Atributos e Métodos", "{3AFAFFF4-0726-43FD-89A1-79639818EA4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAtributosEMétodos", "src\2 - POO\1 - Classes, Atributos e Métodos\bin\ClassesAtributosEMétodos\ClassesAtributosEMétodos.csproj", "{A932F04F-8559-4D5C-96D6-4EAF4CD26816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +309,18 @@ Global
 		{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366}.Release|x64.Build.0 = Release|Any CPU
 		{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366}.Release|x86.ActiveCfg = Release|Any CPU
 		{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366}.Release|x86.Build.0 = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|x64.Build.0 = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Debug|x86.Build.0 = Debug|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|x64.ActiveCfg = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|x64.Build.0 = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|x86.ActiveCfg = Release|Any CPU
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -338,6 +356,9 @@ Global
 		{8890DC53-3E8B-4DAD-97E8-E4185F26B7C4} = {00A04F2B-22DC-4A26-8197-1D460087A47F}
 		{F5196457-9508-4E95-B975-B642C6476021} = {00A04F2B-22DC-4A26-8197-1D460087A47F}
 		{6AF5A79B-FA68-41ED-BAC2-1C9DDB82F366} = {00A04F2B-22DC-4A26-8197-1D460087A47F}
+		{F2273192-6009-4E38-ABB2-577FBA5DADAD} = {8F9CFA6B-4D92-4D7A-8790-128B102AC0C1}
+		{3AFAFFF4-0726-43FD-89A1-79639818EA4C} = {F2273192-6009-4E38-ABB2-577FBA5DADAD}
+		{A932F04F-8559-4D5C-96D6-4EAF4CD26816} = {3AFAFFF4-0726-43FD-89A1-79639818EA4C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {92810C23-399D-4884-A176-3C36522C5A79}
